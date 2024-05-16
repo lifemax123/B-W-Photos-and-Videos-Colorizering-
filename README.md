@@ -71,8 +71,12 @@ pip install -r requirements.txt
 ```
 2. [Run the file with](https://docs.streamlit.io/en/stable/):
  ```bash
- $ streamlit run app.py
+  streamlit run app.py
  ```
+3. May be you get error in streamlit run app.py then run command :
+   ```bash
+   python -m streamlit run app.py
+   ```
  
 ## Directory Tree 
 ```   
