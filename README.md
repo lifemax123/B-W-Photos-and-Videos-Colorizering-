@@ -74,9 +74,9 @@ pip install -r requirements.txt
   streamlit run app.py
  ```
 3. May be you get error in streamlit run app.py then run command :
-   ```bash
-   python -m streamlit run app.py
-   ```
+```bash
+  python -m streamlit run app.py
+```
  
 ## Directory Tree 
 ```   
