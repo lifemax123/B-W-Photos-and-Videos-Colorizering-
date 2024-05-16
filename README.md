@@ -64,7 +64,8 @@ Image colorization is the process of taking an input grayscale (black and white)
 
 ## Installation And Run 
 1.The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
-Download from this link : [here](https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1) and patse in Model folder.
+
+2. Download from this link : [here](https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1) and patse in Model folder. 
 ```bash
 pip install -r requirements.txt
 ```
